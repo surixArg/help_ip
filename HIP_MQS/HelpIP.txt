@@ -1,0 +1,14 @@
+{ "hip_config": [
+{ "name":"room_no", "value": "1" }
+,{ "name":"first_bed_no", "value": "1" }
+,{ "name":"second_bed_no", "value": "2" }
+,{ "name":"room_name", "value": "Room" }
+,{ "name":"bed_name", "value": "Bed" }
+,{ "name":"bath_name", "value": "Bath" }
+,{ "name":"cblue_name", "value": "*ALERT*" }
+,{ "name":"nurse_add", "value": "PHONE IP" }
+,{ "name":"sound_add", "value": "SONI IP" }
+,{ "name":"bed_call_alerts", "value": "2" }
+,{ "name":"bath_call_alerts", "value": "2" }
+,{ "name":"emergency_alerts", "value": "3" }
+] }
