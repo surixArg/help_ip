@@ -8,14 +8,14 @@ Here you will find the update files for Help IP MQS products. Make sure to downl
 
 -The manual upload of the Help_Ip.txt file in the "files" section is required for the correct functioning of the version. In turn, the implementation of another device with the "SONI" version is recommended for the reproduction of alerts/notifications.
 
-Latest HIP_MQS version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19: [v0.1.9-572](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572)
+- Latest HIP_MQS version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19: [v0.1.9-572](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572)
 
-Latest SONI version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19, IPAC_C20_A4: [v0.1.9-532](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572/v0.1.9-532_SONI)
+- Latest SONI version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19, IPAC_C20_A4: [v0.1.9-532](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572/v0.1.9-532_SONI)
 
 Aquí encontrará los archivos de actualización para productos Help IP MQS. Asegúrese de descargar el software correspondiente a su plataforma.
 
 -La carga manual del archivo Help_Ip.txt en la sección "archivos" es necesaria para el correcto funcionamiento de la versión. A su vez, se recomienda la implementación de otro dispositivo con la versión "SONI" para la reproducción de alertas/notificaciones.
 
-Última versión HIP_MQS para IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19: [v0.1.9-572](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572)
+- Última versión HIP_MQS para IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19: [v0.1.9-572](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572)
 
-Última versión SONI para IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19, IPAC_C20_A4: [v0.1.9-532](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572/v0.1.9-532_SONI)
+- Última versión SONI para IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19, IPAC_C20_A4: [v0.1.9-532](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572/v0.1.9-532_SONI)
