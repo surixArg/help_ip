@@ -4,6 +4,8 @@
 
 # <h1 align="center">Help IP MQS</h1>
 
+---
+
 Here you will find the update files for Help IP MQS products. Make sure to download the software that corresponds to your platform.
 
 -The manual upload of the Help_Ip.txt file in the "files" section is required for the correct functioning of the version. In turn, the implementation of another device with the "SONI" version is recommended for the reproduction of alerts/notifications.
@@ -11,6 +13,8 @@ Here you will find the update files for Help IP MQS products. Make sure to downl
 - Latest HIP_MQS version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19: [v0.1.9-572](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572)
 
 - Latest SONI version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19, IPAC_C20_A4: [v0.1.9-532](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572/v0.1.9-532_SONI)
+
+---
 
 Aquí encontrará los archivos de actualización para productos Help IP MQS. Asegúrese de descargar el software correspondiente a su plataforma.
 
