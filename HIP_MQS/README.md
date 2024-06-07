@@ -10,7 +10,7 @@ Here you will find the update files for Help IP MQS products. Make sure to downl
 
 Latest HIP_MQS version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19: [v0.1.9-572](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572)
 
-Latest SONI version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19, IPAC_C20_A4: [v0.1.9-532](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572/SONI/v0.1.9-532_SONI)
+Latest SONI version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19, IPAC_C20_A4: [v0.1.9-532](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572/v0.1.9-532_SONI)
 
 Aquí encontrará los archivos de actualización para productos Help IP MQS. Asegúrese de descargar el software correspondiente a su plataforma.
 
