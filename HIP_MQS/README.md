@@ -10,11 +10,11 @@ Here you will find the update files for Help IP MQS products. Make sure to downl
 
 -The implementation of another device with the "SONI" version is recommended for the reproduction of alerts/notifications, one for each nurse office.
 
-- Latest HIP_MQS version for IPAC_20: [v0.1.9-804](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-804)
+- Latest HIP_MQS version for IPAC_20, IPAC_C19_2, IPAC_16_M4: [v0.1.9-805](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-805)
 
 - Latest HIP_MQS version for IPAC_19, IPAC_19_2, IPAC_C19: [v0.1.9-572](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572)
 
-- Latest SONI version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19: [v0.1.9-804](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-804/v0.1.9-804_SONI)
+- Latest SONI version for IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19, IPAC_C19_2, IPAC_16_M4: [v0.1.9-804](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-805/v0.1.9-804_SONI)
 
 ---
 
@@ -22,8 +22,8 @@ Aquí encontrará los archivos de actualización para productos Help IP MQS. Ase
 
 -Se recomienda la implementación de otro dispositivo con la versión "SONI" para la reproducción de alertas/notificaciones, uno en cada office de enfermería.
 
-- Última versión HIP_MQS para IPAC_20: [v0.1.9-804](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-804)
+- Última versión HIP_MQS para IPAC_20, IPAC_C19, IPAC_16_M4: [v0.1.9-805](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-805)
 
 - Última versión HIP_MQS para IPAC_19, IPAC_19_2, IPAC_C19: [v0.1.9-572](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-572)
 
-- Última versión SONI para IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19: [v0.1.9-804](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-804/v0.1.9-804_SONI)
+- Última versión SONI para IPAC_19, IPAC_19_2, IPAC_20 , IPAC_C19, IPAC_C19_2, IPAC_16_M4: [v0.1.9-804](https://github.com/surixArg/help_ip/tree/main/HIP_MQS/v0.1.9-805/v0.1.9-804_SONI)
