@@ -12,7 +12,7 @@ Latest version for IPAC_19, IPAC_19_2, IPAC_20: [v0.1.9-597](https://github.com/
 
 Latest version for IPAC_C19: [v0.1.9-633](https://github.com/surixArg/help_ip/tree/main/HELP_IP/v0.1.9-633)
 
-Latest version for IPAC_C19_2: [v0.1.9-576](https://github.com/surixArg/help_ip/tree/main/HELP_IP/v0.1.9-576)
+Latest version for IPAC_C19_2: [v0.1.9-633](https://github.com/surixArg/help_ip/tree/main/HELP_IP/v0.1.9-633)
 
 ---
 
@@ -22,4 +22,4 @@ Aquí encontrará los archivos de actualización para productos Help IP. Asegúr
 
 Última versión disponible para IPAC_C19: [v0.1.9-633](https://github.com/surixArg/help_ip/tree/main/HELP_IP/v0.1.9-633)
 
-Última versión disponible para IPAC_C19_2: [v0.1.9-576](https://github.com/surixArg/help_ip/tree/main/HELP_IP/v0.1.9-576)
+Última versión disponible para IPAC_C19_2: [v0.1.9-633](https://github.com/surixArg/help_ip/tree/main/HELP_IP/v0.1.9-633)
