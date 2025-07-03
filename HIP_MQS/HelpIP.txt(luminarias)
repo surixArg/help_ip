@@ -1,0 +1,10 @@
+{ "hip_config": [
+{ "name":"l_bed_cl", "value": "off,on,off" }
+,{ "name":"l_bath_cl", "value": "off,slow,off" }
+,{ "name":"l_cblue", "value": "off,fast,off" }
+,{ "name":"l_nurse", "value": "on,off,off" }
+,{ "name":"l_eos", "value": "off,off,off" }
+,{ "name":"l_maid", "value": "off,on,on" }
+,{ "name":"l_room_srv", "value": "off,off,on" }
+,{ "name":"l_maintenance", "value": "off,off,slow" }
+] }
