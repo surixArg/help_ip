@@ -31,3 +31,4 @@ Aquí encontrará los archivos de actualización para productos Help IP MQS. Ase
 ---
 
 Link a una lista de visualización de videoguías para configuración y entendimiento del servidor HELP_IP SURiX
+https://www.youtube.com/watch?v=rPJq0_TtLOU&list=PLrUZkia9ORcGW8iRGorlIHpqnAQpj9cCb
