@@ -16,7 +16,7 @@ Here you will find the update files for Help IP MQS products. Make sure to downl
 
 ---
 
-Aquí encontrará los archivos de actualización para productos Help IP MQS. Asegúrese de descargar el software correspondiente a su plataforma.
+Aquí se encuentran los archivos de actualización para productos Help IP MQS. Asegúrese de descargar el software correspondiente a su plataforma.
 
 -Se recomienda la implementación de otro dispositivo con la versión "SONI" para la reproducción de alertas/notificaciones, uno en cada office de enfermería, los archivos requeridos para el dispositivo SONI se encuentran en su propia carpeta.
 
