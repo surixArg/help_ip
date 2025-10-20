@@ -1,5 +1,0 @@
-Este archivo de texto está destinado a guiar el procedimiento de la carga de los archivos de audio de los dispositivos SONI, lo primero a tener en cuenta es que hay dos aplicaciones:
-
--SONI con MCAST: En dicho escenario se deben cargar los archivos de audio que se quieren reproducir directamente en cada rcu y también el numero de habitacion llamando al archivo de dicho numero con "me", ejemplo: hab 234 y se quieren escuchar las alertas de paro cardiaco y de baño, en dicho caso se cargarían los archivos de ClFrBath (Baño), CBm, CBt (Paro cardiaco) y el numero de habitacion renombrandolo como me.
-
--SONI sin MCAST (Puede ser por ip directa o por servidor, max 23 habitaciones): En dicho escenario se tienen que cargar todos los archivos en el dispositivo SONI. Ejemplo: Primer piso con habitaciones del 101 al 123, en dicho escenario se cargan en el soni los archivos de las diferentes alertas y de los numeros OJO dejando el numero completo sin añadidos, entonces 103reemplazarcon"me" -> Se lo carga como -> 103.
