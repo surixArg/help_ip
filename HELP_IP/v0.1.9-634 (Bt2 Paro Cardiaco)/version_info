@@ -1,0 +1,5 @@
+Product: HELP_IP
+Compilation Date: 2025/12/01
+Commit Hash: f4946da158edaa249aa8a4fe33adaab6a2abdf97
+
+Se añade case Bt2 para paro cardiaco, quedan habilitados tanto tecla 1 como Bt2 para la misma función.
