@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://surix.net/images/logo-scrolled.png" />
+  <a href="https://surix.net" target="_blank" rel="noopener noreferrer">
+    <img src="https://surix.net/images/logo-scrolled.png" />
+  </a>
 </p>
 
 # <h1 align="center">Help IP</h1>
